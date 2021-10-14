@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="help_heading">Ваша подсказка: %1s</string>
+</resources>
